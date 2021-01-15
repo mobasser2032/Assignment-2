@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+h1 {
+    font-size: 60px;
+}
+.buy {
+    background-color: #2a1e59;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, tomato, yellow );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+}
+.price{
+    color: #76c27e;
+    font-size: 40px;
+    justify-self: start;
+}
+.card {
+    padding: 0px;
+
+}
+.card img{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    margin: auto;
+}
+.mobile img{
+    width: 25%;
+}
+.container {
+    margin-bottom: 100px;
+}
